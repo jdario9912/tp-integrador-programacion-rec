@@ -6,4 +6,4 @@ def timer():
 
 
 def mostrar_tiempo(mensaje, inicio, fin):
-    print(f"{mensaje}: {fin - inicio}")
+    print(f"{mensaje}: {fin - inicio}ms")
